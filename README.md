@@ -67,7 +67,7 @@ MIT License
 
 ## Contributing
 
-Contributions are welcome! Please read our contributing guidelines and code of conduct before making a pull request.
+Contributions are welcome!
 
 ## Issues
 
