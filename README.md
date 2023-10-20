@@ -58,12 +58,12 @@ MIT License
 
 ### Third party licenses
 
-TinyGLTF : Licensed under the MIT License http://opensource.org/licenses/MIT. Copyright (c) 2017 Syoyo Fujita, Aurélien Chatelain and many contributors.
-json.hpp : Licensed under the MIT License http://opensource.org/licenses/MIT. Copyright (c) 2013-2017 Niels Lohmann http://nlohmann.me.
-stb_image : Public domain.
-catch : Copyright (c) 2012 Two Blue Cubes Ltd. All rights reserved. Distributed under the Boost Software License, Version 1.0.
-RapidJSON : Copyright (C) 2015 THL A29 Limited, a Tencent company, and Milo Yip. All rights reserved. http://rapidjson.org/
-dlib(uridecode, uriencode) : Copyright (C) 2003 Davis E. King Boost Software License 1.0. http://dlib.net/dlib/server/server_http.cpp.html
+- TinyGLTF : Licensed under the MIT License http://opensource.org/licenses/MIT. Copyright (c) 2017 Syoyo Fujita, Aurélien Chatelain and many contributors.
+- json.hpp : Licensed under the MIT License http://opensource.org/licenses/MIT. Copyright (c) 2013-2017 Niels Lohmann http://nlohmann.me.
+- stb_image : Public domain.
+- catch : Copyright (c) 2012 Two Blue Cubes Ltd. All rights reserved. Distributed under the Boost Software License, Version 1.0.
+- RapidJSON : Copyright (C) 2015 THL A29 Limited, a Tencent company, and Milo Yip. All rights reserved. http://rapidjson.org/
+- dlib(uridecode, uriencode) : Copyright (C) 2003 Davis E. King Boost Software License 1.0. http://dlib.net/dlib/server/server_http.cpp.html
 
 ## Contributing
 
